@@ -1,0 +1,16 @@
+body {
+	padding-top: 60px;
+}
+
+.round {
+    border-radius: 15px;
+    position: absolute;
+}
+
+.noborder {
+	border: 0px;
+}
+
+.square {
+	border-radius: 0px;
+}
