@@ -8,9 +8,30 @@ body {
 }
 
 .noborder {
-	border: 0px;
+	background-color: transparent;
+	border: none;
 }
 
 .square {
 	border-radius: 0px;
+}
+
+.spacing {
+	word-spacing: 20px;
+}
+
+.responsebox {
+	width: 350px; 
+}
+
+.iconspace {
+	word-spacing: 75px;
+}
+
+.pad {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.color {
+	color: #949590;
 }
